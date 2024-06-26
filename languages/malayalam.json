@@ -1,0 +1,19 @@
+{
+    "classdetailsinsertedsucessfully":"നൽകിയ ക്ലാസ് വിശദാംശങ്ങൾ വിജയകരമായി",
+    "somthingwrong":"അസാധുവായ ഇൻപുട്ട്",
+    "tokenerror":"ടോക്കൺ തെറ്റായി",
+    "insertedsucessfully":"വിജയകരമായി ",
+    "insertedfail":"പരാജയപ്പെട്ടു",
+    "validationerror":"മൂല്യനിർണ്ണയ പിശക്",
+    "alreadyinserted":"നിലവിലുണ്ട്",
+    "examname":"പരീക്ഷയുടെ പേര് കണ്ടെത്തിയില്ല",
+    "studentname":"വിദ്യാർത്ഥിയുടെ പേര് കണ്ടെത്തിയില്ല",
+    "classidexist":"class id exist",
+    "passwordincorrect":"പാസ്വേഡ് തെറ്റാണ്",
+    "emailincorrect":"email incorrect",
+    "loginsucessful":"login sucessful",
+    "tokenupdated":"token updated",
+    "registrationsucessfully":"registration sucessfully",
+    "emailalreadyexist":"email already exist"
+
+}

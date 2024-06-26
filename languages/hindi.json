@@ -1,0 +1,21 @@
+{
+    "classdetailsinsertedsucessfully":"कक्षा विवरण सफलतापूर्वक डाला गया",
+    "somthingwrong":"कुछ गड़बड़",
+    "tokenerror":"टोकन त्रुटि",
+    "insertedsucessfully":"सफलतापूर्वक डाला गया",
+    "insertedfail":"सम्मिलित विफल",
+    "validationerror":"मान्यता त्रुटि",
+    "alreadyinserted":"पहले ही डाला जा चुका है",
+    "examname":"परीक्षा का नाम नहीं मिला",
+    "studentname":"छात्र का नाम नहीं मिला",
+    "classidexist":"क्लास आईडी मौजूद है",
+    "passwordincorrect":"गलत पासवर्ड",
+    "emailincorrect":"ईमेल गलत",
+    "loginsucessful":"लॉग इन सफल",
+    "tokenupdated":"टोकन अपडेट किया गया",
+    "registrationsucessfully":"पंजीकरण सफलतापूर्वक",
+    "emailalreadyexist":"ईमेल पहले से मौजूद है",
+    "studentnameexist":"पहले से ही मौजूद",
+    "tokenerrorr":"टोकन अमान्य"
+
+}
